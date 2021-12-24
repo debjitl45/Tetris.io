@@ -24,4 +24,4 @@ H=Left
 
 K=Right
 
-H=Down
+J=Down
